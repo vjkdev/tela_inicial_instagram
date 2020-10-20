@@ -1,10 +1,13 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# # DIGITAL INNOVATION ONE :star:
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Interface de login do Instagram!
 
-### Os requisitos são:
+Trabalho realizado para a conclusão da matéria professora *Gabriela Pinheiro*
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+ ## Tela Inicial do Instagram
 
-## 🚀 Let's code! 🚀
+![Tela inicial](./img/telainicial.png)
+
+## 
+
+## 🚀 Let's go code! 🚀
